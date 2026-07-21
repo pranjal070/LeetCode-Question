@@ -12,9 +12,8 @@ public:
             }
             else{
                 right--;
-            }
-            
+            }           
         }
-    return maxwater;
+        return maxwater;
     }
 };
