@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/pranjal070/LeetCode-Question/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/pranjal070/LeetCode-Question/tree/master/0977-squares-of-a-sorted-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/pranjal070/LeetCode-Question/tree/master/3536-maximum-product-of-two-digits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/pranjal070/LeetCode-Question/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Math
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/pranjal070/LeetCode-Question/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
