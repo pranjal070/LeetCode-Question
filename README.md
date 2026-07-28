@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/pranjal070/LeetCode-Question/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/pranjal070/LeetCode-Question/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pranjal070/LeetCode-Question/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/pranjal070/LeetCode-Question/tree/master/3536-maximum-product-of-two-digits) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/pranjal070/LeetCode-Question/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/pranjal070/LeetCode-Question/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
