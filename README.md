@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pranjal070/LeetCode-Question/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/pranjal070/LeetCode-Question/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1695-maximum-erasure-value](https://github.com/pranjal070/LeetCode-Question/tree/master/1695-maximum-erasure-value) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/pranjal070/LeetCode-Question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pranjal070/LeetCode-Question/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3917-count-indices-with-opposite-parity](https://github.com/pranjal070/LeetCode-Question/tree/master/3917-count-indices-with-opposite-parity) |
 ## Two Pointers
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/pranjal070/LeetCode-Question/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/pranjal070/LeetCode-Question/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pranjal070/LeetCode-Question/tree/master/0628-maximum-product-of-three-numbers) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/pranjal070/LeetCode-Question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/pranjal070/LeetCode-Question/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
 |  |
@@ -101,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/pranjal070/LeetCode-Question/tree/master/0509-fibonacci-number) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/pranjal070/LeetCode-Question/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
