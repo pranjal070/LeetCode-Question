@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/pranjal070/LeetCode-Question/tree/master/0011-container-with-most-water) |
+| [0046-permutations](https://github.com/pranjal070/LeetCode-Question/tree/master/0046-permutations) |
 | [0088-merge-sorted-array](https://github.com/pranjal070/LeetCode-Question/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/pranjal070/LeetCode-Question/tree/master/0090-subsets-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranjal070/LeetCode-Question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pranjal070/LeetCode-Question/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/pranjal070/LeetCode-Question/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/pranjal070/LeetCode-Question/tree/master/0090-subsets-ii) |
 ## Game Theory
 |  |
