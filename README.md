@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/pranjal070/LeetCode-Question/tree/master/0022-generate-parentheses) |
 | [0509-fibonacci-number](https://github.com/pranjal070/LeetCode-Question/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/pranjal070/LeetCode-Question/tree/master/0877-stone-game) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/pranjal070/LeetCode-Question/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pranjal070/LeetCode-Question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pranjal070/LeetCode-Question/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/pranjal070/LeetCode-Question/tree/master/0022-generate-parentheses) |
 | [0344-reverse-string](https://github.com/pranjal070/LeetCode-Question/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/pranjal070/LeetCode-Question/tree/master/0424-longest-repeating-character-replacement) |
 ## Recursion
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pranjal070/LeetCode-Question/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/pranjal070/LeetCode-Question/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/pranjal070/LeetCode-Question/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/pranjal070/LeetCode-Question/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/pranjal070/LeetCode-Question/tree/master/0077-combinations) |
@@ -164,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pranjal070/LeetCode-Question/tree/master/3345-smallest-divisible-digit-product-i) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/pranjal070/LeetCode-Question/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
