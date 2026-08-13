@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/pranjal070/LeetCode-Question/tree/master/0090-subsets-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranjal070/LeetCode-Question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/pranjal070/LeetCode-Question/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/pranjal070/LeetCode-Question/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/pranjal070/LeetCode-Question/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pranjal070/LeetCode-Question/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/pranjal070/LeetCode-Question/tree/master/0643-maximum-average-subarray-i) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pranjal070/LeetCode-Question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/pranjal070/LeetCode-Question/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/pranjal070/LeetCode-Question/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/pranjal070/LeetCode-Question/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/pranjal070/LeetCode-Question/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/pranjal070/LeetCode-Question/tree/master/1004-max-consecutive-ones-iii) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pranjal070/LeetCode-Question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pranjal070/LeetCode-Question/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0219-contains-duplicate-ii](https://github.com/pranjal070/LeetCode-Question/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/pranjal070/LeetCode-Question/tree/master/0424-longest-repeating-character-replacement) |
 | [1695-maximum-erasure-value](https://github.com/pranjal070/LeetCode-Question/tree/master/1695-maximum-erasure-value) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pranjal070/LeetCode-Question/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
