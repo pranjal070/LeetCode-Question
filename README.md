@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/pranjal070/LeetCode-Question/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1695-maximum-erasure-value](https://github.com/pranjal070/LeetCode-Question/tree/master/1695-maximum-erasure-value) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pranjal070/LeetCode-Question/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/pranjal070/LeetCode-Question/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/pranjal070/LeetCode-Question/tree/master/0424-longest-repeating-character-replacement) |
 | [1695-maximum-erasure-value](https://github.com/pranjal070/LeetCode-Question/tree/master/1695-maximum-erasure-value) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pranjal070/LeetCode-Question/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/pranjal070/LeetCode-Question/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/pranjal070/LeetCode-Question/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/pranjal070/LeetCode-Question/tree/master/0022-generate-parentheses) |
 | [0344-reverse-string](https://github.com/pranjal070/LeetCode-Question/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/pranjal070/LeetCode-Question/tree/master/0424-longest-repeating-character-replacement) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/pranjal070/LeetCode-Question/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Recursion
 |  |
 | ------- |
