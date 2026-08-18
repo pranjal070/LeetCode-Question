@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/pranjal070/LeetCode-Question/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/pranjal070/LeetCode-Question/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/pranjal070/LeetCode-Question/tree/master/1004-max-consecutive-ones-iii) |
+| [1331-rank-transform-of-an-array](https://github.com/pranjal070/LeetCode-Question/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/pranjal070/LeetCode-Question/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pranjal070/LeetCode-Question/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/pranjal070/LeetCode-Question/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/pranjal070/LeetCode-Question/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/pranjal070/LeetCode-Question/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/pranjal070/LeetCode-Question/tree/master/0977-squares-of-a-sorted-array) |
+| [1331-rank-transform-of-an-array](https://github.com/pranjal070/LeetCode-Question/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pranjal070/LeetCode-Question/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/pranjal070/LeetCode-Question/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/pranjal070/LeetCode-Question/tree/master/3731-find-missing-elements) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pranjal070/LeetCode-Question/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0219-contains-duplicate-ii](https://github.com/pranjal070/LeetCode-Question/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/pranjal070/LeetCode-Question/tree/master/0424-longest-repeating-character-replacement) |
+| [1331-rank-transform-of-an-array](https://github.com/pranjal070/LeetCode-Question/tree/master/1331-rank-transform-of-an-array) |
 | [1695-maximum-erasure-value](https://github.com/pranjal070/LeetCode-Question/tree/master/1695-maximum-erasure-value) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pranjal070/LeetCode-Question/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pranjal070/LeetCode-Question/tree/master/3090-maximum-length-substring-with-two-occurrences) |
