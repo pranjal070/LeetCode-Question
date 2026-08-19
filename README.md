@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/pranjal070/LeetCode-Question/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/pranjal070/LeetCode-Question/tree/master/0050-powx-n) |
 | [0223-rectangle-area](https://github.com/pranjal070/LeetCode-Question/tree/master/0223-rectangle-area) |
 | [0367-valid-perfect-square](https://github.com/pranjal070/LeetCode-Question/tree/master/0367-valid-perfect-square) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/pranjal070/LeetCode-Question/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/pranjal070/LeetCode-Question/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/pranjal070/LeetCode-Question/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/pranjal070/LeetCode-Question/tree/master/0509-fibonacci-number) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/pranjal070/LeetCode-Question/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/pranjal070/LeetCode-Question/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pranjal070/LeetCode-Question/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/pranjal070/LeetCode-Question/tree/master/0148-sort-list) |
