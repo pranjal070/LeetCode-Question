@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/pranjal070/LeetCode-Question/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/pranjal070/LeetCode-Question/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pranjal070/LeetCode-Question/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/pranjal070/LeetCode-Question/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranjal070/LeetCode-Question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/pranjal070/LeetCode-Question/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/pranjal070/LeetCode-Question/tree/master/0344-reverse-string) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/pranjal070/LeetCode-Question/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/pranjal070/LeetCode-Question/tree/master/0148-sort-list) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pranjal070/LeetCode-Question/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/pranjal070/LeetCode-Question/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/pranjal070/LeetCode-Question/tree/master/0977-squares-of-a-sorted-array) |
@@ -165,10 +167,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/pranjal070/LeetCode-Question/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/pranjal070/LeetCode-Question/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/pranjal070/LeetCode-Question/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/pranjal070/LeetCode-Question/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -212,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/pranjal070/LeetCode-Question/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pranjal070/LeetCode-Question/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/pranjal070/LeetCode-Question/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/pranjal070/LeetCode-Question/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/pranjal070/LeetCode-Question/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/pranjal070/LeetCode-Question/tree/master/0876-middle-of-the-linked-list) |
