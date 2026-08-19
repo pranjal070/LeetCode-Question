@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/pranjal070/LeetCode-Question/tree/master/0050-powx-n) |
+| [0223-rectangle-area](https://github.com/pranjal070/LeetCode-Question/tree/master/0223-rectangle-area) |
 | [0367-valid-perfect-square](https://github.com/pranjal070/LeetCode-Question/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/pranjal070/LeetCode-Question/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pranjal070/LeetCode-Question/tree/master/0628-maximum-product-of-three-numbers) |
@@ -234,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/pranjal070/LeetCode-Question/tree/master/1929-concatenation-of-array) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/pranjal070/LeetCode-Question/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
