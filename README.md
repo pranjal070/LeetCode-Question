@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/pranjal070/LeetCode-Question/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1672-richest-customer-wealth](https://github.com/pranjal070/LeetCode-Question/tree/master/1672-richest-customer-wealth) |
 | [1695-maximum-erasure-value](https://github.com/pranjal070/LeetCode-Question/tree/master/1695-maximum-erasure-value) |
+| [1929-concatenation-of-array](https://github.com/pranjal070/LeetCode-Question/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pranjal070/LeetCode-Question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pranjal070/LeetCode-Question/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/pranjal070/LeetCode-Question/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -224,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/pranjal070/LeetCode-Question/tree/master/1672-richest-customer-wealth) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/pranjal070/LeetCode-Question/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
