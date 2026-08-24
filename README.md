@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/pranjal070/LeetCode-Question/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/pranjal070/LeetCode-Question/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/pranjal070/LeetCode-Question/tree/master/0046-permutations) |
+| [0066-plus-one](https://github.com/pranjal070/LeetCode-Question/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/pranjal070/LeetCode-Question/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/pranjal070/LeetCode-Question/tree/master/0090-subsets-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranjal070/LeetCode-Question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/pranjal070/LeetCode-Question/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/pranjal070/LeetCode-Question/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/pranjal070/LeetCode-Question/tree/master/0066-plus-one) |
 | [0223-rectangle-area](https://github.com/pranjal070/LeetCode-Question/tree/master/0223-rectangle-area) |
 | [0367-valid-perfect-square](https://github.com/pranjal070/LeetCode-Question/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/pranjal070/LeetCode-Question/tree/master/0509-fibonacci-number) |
