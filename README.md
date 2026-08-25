@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/pranjal070/LeetCode-Question/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/pranjal070/LeetCode-Question/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pranjal070/LeetCode-Question/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1472-design-browser-history](https://github.com/pranjal070/LeetCode-Question/tree/master/1472-design-browser-history) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/pranjal070/LeetCode-Question/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1572-matrix-diagonal-sum](https://github.com/pranjal070/LeetCode-Question/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/pranjal070/LeetCode-Question/tree/master/1672-richest-customer-wealth) |
@@ -221,10 +222,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/pranjal070/LeetCode-Question/tree/master/0232-implement-queue-using-stacks) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pranjal070/LeetCode-Question/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1472-design-browser-history](https://github.com/pranjal070/LeetCode-Question/tree/master/1472-design-browser-history) |
 ## Design
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/pranjal070/LeetCode-Question/tree/master/0232-implement-queue-using-stacks) |
+| [1472-design-browser-history](https://github.com/pranjal070/LeetCode-Question/tree/master/1472-design-browser-history) |
 ## Queue
 |  |
 | ------- |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/pranjal070/LeetCode-Question/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/pranjal070/LeetCode-Question/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/pranjal070/LeetCode-Question/tree/master/0876-middle-of-the-linked-list) |
+| [1472-design-browser-history](https://github.com/pranjal070/LeetCode-Question/tree/master/1472-design-browser-history) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/pranjal070/LeetCode-Question/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -283,4 +287,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/pranjal070/LeetCode-Question/tree/master/0100-same-tree) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/pranjal070/LeetCode-Question/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/pranjal070/LeetCode-Question/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
