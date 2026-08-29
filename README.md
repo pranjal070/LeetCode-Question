@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pranjal070/LeetCode-Question/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1472-design-browser-history](https://github.com/pranjal070/LeetCode-Question/tree/master/1472-design-browser-history) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/pranjal070/LeetCode-Question/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/pranjal070/LeetCode-Question/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1572-matrix-diagonal-sum](https://github.com/pranjal070/LeetCode-Question/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/pranjal070/LeetCode-Question/tree/master/1672-richest-customer-wealth) |
 | [1695-maximum-erasure-value](https://github.com/pranjal070/LeetCode-Question/tree/master/1695-maximum-erasure-value) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/pranjal070/LeetCode-Question/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/pranjal070/LeetCode-Question/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pranjal070/LeetCode-Question/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/pranjal070/LeetCode-Question/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [3536-maximum-product-of-two-digits](https://github.com/pranjal070/LeetCode-Question/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/pranjal070/LeetCode-Question/tree/master/3731-find-missing-elements) |
 ## Sliding Window
