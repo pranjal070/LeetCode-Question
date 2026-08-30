@@ -15,14 +15,11 @@ class Solution {
             }
         }
 
-        
         int left = Math.min(minIndex, maxIndex);
         int right = Math.max(minIndex, maxIndex);
 
-   
         int front = right + 1;
 
-     
         int back = n - left;
 
         // 3. Remove one from front and one from back
