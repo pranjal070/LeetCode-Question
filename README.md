@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/pranjal070/LeetCode-Question/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/pranjal070/LeetCode-Question/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/pranjal070/LeetCode-Question/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/pranjal070/LeetCode-Question/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranjal070/LeetCode-Question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/pranjal070/LeetCode-Question/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/pranjal070/LeetCode-Question/tree/master/0219-contains-duplicate-ii) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/pranjal070/LeetCode-Question/tree/master/0022-generate-parentheses) |
+| [0118-pascals-triangle](https://github.com/pranjal070/LeetCode-Question/tree/master/0118-pascals-triangle) |
 | [0509-fibonacci-number](https://github.com/pranjal070/LeetCode-Question/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/pranjal070/LeetCode-Question/tree/master/0877-stone-game) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/pranjal070/LeetCode-Question/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
