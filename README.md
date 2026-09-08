@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/pranjal070/LeetCode-Question/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/pranjal070/LeetCode-Question/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/pranjal070/LeetCode-Question/tree/master/0118-pascals-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/pranjal070/LeetCode-Question/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/pranjal070/LeetCode-Question/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranjal070/LeetCode-Question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/pranjal070/LeetCode-Question/tree/master/0209-minimum-size-subarray-sum) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/pranjal070/LeetCode-Question/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pranjal070/LeetCode-Question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pranjal070/LeetCode-Question/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0128-longest-consecutive-sequence](https://github.com/pranjal070/LeetCode-Question/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/pranjal070/LeetCode-Question/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/pranjal070/LeetCode-Question/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pranjal070/LeetCode-Question/tree/master/0142-linked-list-cycle-ii) |
@@ -340,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/pranjal070/LeetCode-Question/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/pranjal070/LeetCode-Question/tree/master/0374-guess-number-higher-or-lower) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/pranjal070/LeetCode-Question/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
