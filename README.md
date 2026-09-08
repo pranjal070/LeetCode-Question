@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/pranjal070/LeetCode-Question/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/pranjal070/LeetCode-Question/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/pranjal070/LeetCode-Question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/pranjal070/LeetCode-Question/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/pranjal070/LeetCode-Question/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/pranjal070/LeetCode-Question/tree/master/0046-permutations) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/pranjal070/LeetCode-Question/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/pranjal070/LeetCode-Question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/pranjal070/LeetCode-Question/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/pranjal070/LeetCode-Question/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pranjal070/LeetCode-Question/tree/master/0142-linked-list-cycle-ii) |
