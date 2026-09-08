@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/pranjal070/LeetCode-Question/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/pranjal070/LeetCode-Question/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/pranjal070/LeetCode-Question/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/pranjal070/LeetCode-Question/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/pranjal070/LeetCode-Question/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/pranjal070/LeetCode-Question/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/pranjal070/LeetCode-Question/tree/master/0090-subsets-ii) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/pranjal070/LeetCode-Question/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/pranjal070/LeetCode-Question/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/pranjal070/LeetCode-Question/tree/master/0118-pascals-triangle) |
 | [0509-fibonacci-number](https://github.com/pranjal070/LeetCode-Question/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/pranjal070/LeetCode-Question/tree/master/0877-stone-game) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/pranjal070/LeetCode-Question/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/pranjal070/LeetCode-Question/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/pranjal070/LeetCode-Question/tree/master/0912-sort-an-array) |
 ## Merge Sort
