@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/pranjal070/LeetCode-Question/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/pranjal070/LeetCode-Question/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/pranjal070/LeetCode-Question/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/pranjal070/LeetCode-Question/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pranjal070/LeetCode-Question/tree/master/3875-construct-uniform-parity-array-i) |
 ## Heap (Priority Queue)
 |  |
