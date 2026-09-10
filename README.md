@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/pranjal070/LeetCode-Question/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/pranjal070/LeetCode-Question/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/pranjal070/LeetCode-Question/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/pranjal070/LeetCode-Question/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pranjal070/LeetCode-Question/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/pranjal070/LeetCode-Question/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/pranjal070/LeetCode-Question/tree/master/0704-binary-search) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranjal070/LeetCode-Question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/pranjal070/LeetCode-Question/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/pranjal070/LeetCode-Question/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/pranjal070/LeetCode-Question/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/pranjal070/LeetCode-Question/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/pranjal070/LeetCode-Question/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/pranjal070/LeetCode-Question/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranjal070/LeetCode-Question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/pranjal070/LeetCode-Question/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/pranjal070/LeetCode-Question/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/pranjal070/LeetCode-Question/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/pranjal070/LeetCode-Question/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/pranjal070/LeetCode-Question/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/pranjal070/LeetCode-Question/tree/master/0704-binary-search) |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/pranjal070/LeetCode-Question/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/pranjal070/LeetCode-Question/tree/master/0148-sort-list) |
+| [0349-intersection-of-two-arrays](https://github.com/pranjal070/LeetCode-Question/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pranjal070/LeetCode-Question/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/pranjal070/LeetCode-Question/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/pranjal070/LeetCode-Question/tree/master/0977-squares-of-a-sorted-array) |
@@ -122,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/pranjal070/LeetCode-Question/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pranjal070/LeetCode-Question/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/pranjal070/LeetCode-Question/tree/master/0219-contains-duplicate-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/pranjal070/LeetCode-Question/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/pranjal070/LeetCode-Question/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/pranjal070/LeetCode-Question/tree/master/0460-lfu-cache) |
 | [1331-rank-transform-of-an-array](https://github.com/pranjal070/LeetCode-Question/tree/master/1331-rank-transform-of-an-array) |
