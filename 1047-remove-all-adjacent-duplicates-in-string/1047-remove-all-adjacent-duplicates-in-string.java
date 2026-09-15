@@ -1,33 +1,27 @@
+import java.util.*;
+
 class Solution {
     public String removeDuplicates(String s) {
 
-        StringBuilder ans = new StringBuilder();
+        Stack<Character> st = new Stack<>();
 
         for (int i = 0; i < s.length(); i++) {
 
-            if (ans.length() > 0 && ans.charAt(ans.length() - 1) == s.charAt(i)) {
-                ans.deleteCharAt(ans.length() - 1);
+            char ch = s.charAt(i);
+
+            if (!st.isEmpty() && st.peek() == ch) {
+                st.pop();
             } else {
-                ans.append(s.charAt(i));
+                st.push(ch);
             }
         }
 
-        return ans.toString();
+        String ans = "";
+
+        while (!st.isEmpty()) {
+            ans = st.pop() + ans;
+        }
+
+        return ans;
     }
 }
-// class Solution {
-//     public String removeDuplicates(String s) {
-//         for(int i=0;i<s.length();i++){
-//             int count=0;
-//             for(int j=i+1;j<s.length();j++){
-//                 if(arr[i]==arr[j]){
-//                     count++;
-//                 }
-//             }
-//             if(count>1){
-//                 return s;
-//             }
-//         }
-        
-//     }
-// }
