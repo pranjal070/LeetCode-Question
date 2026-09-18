@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pranjal070/LeetCode-Question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/pranjal070/LeetCode-Question/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pranjal070/LeetCode-Question/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3285-find-indices-of-stable-mountains](https://github.com/pranjal070/LeetCode-Question/tree/master/3285-find-indices-of-stable-mountains) |
 | [3379-transformed-array](https://github.com/pranjal070/LeetCode-Question/tree/master/3379-transformed-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/pranjal070/LeetCode-Question/tree/master/3483-unique-3-digit-even-numbers) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/pranjal070/LeetCode-Question/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
