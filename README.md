@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pranjal070/LeetCode-Question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pranjal070/LeetCode-Question/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/pranjal070/LeetCode-Question/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/pranjal070/LeetCode-Question/tree/master/0022-generate-parentheses) |
 | [0344-reverse-string](https://github.com/pranjal070/LeetCode-Question/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/pranjal070/LeetCode-Question/tree/master/0424-longest-repeating-character-replacement) |
@@ -261,10 +262,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/pranjal070/LeetCode-Question/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/pranjal070/LeetCode-Question/tree/master/0022-generate-parentheses) |
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/pranjal070/LeetCode-Question/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/pranjal070/LeetCode-Question/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/pranjal070/LeetCode-Question/tree/master/0234-palindrome-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pranjal070/LeetCode-Question/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
