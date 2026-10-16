@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/pranjal070/LeetCode-Question/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/pranjal070/LeetCode-Question/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pranjal070/LeetCode-Question/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/pranjal070/LeetCode-Question/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/pranjal070/LeetCode-Question/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/pranjal070/LeetCode-Question/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/pranjal070/LeetCode-Question/tree/master/0136-single-number) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/pranjal070/LeetCode-Question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pranjal070/LeetCode-Question/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pranjal070/LeetCode-Question/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/pranjal070/LeetCode-Question/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/pranjal070/LeetCode-Question/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/pranjal070/LeetCode-Question/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/pranjal070/LeetCode-Question/tree/master/0141-linked-list-cycle) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/pranjal070/LeetCode-Question/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pranjal070/LeetCode-Question/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/pranjal070/LeetCode-Question/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/pranjal070/LeetCode-Question/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/pranjal070/LeetCode-Question/tree/master/0912-sort-an-array) |
 ## Merge Sort
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/pranjal070/LeetCode-Question/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/pranjal070/LeetCode-Question/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pranjal070/LeetCode-Question/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/pranjal070/LeetCode-Question/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0112-path-sum](https://github.com/pranjal070/LeetCode-Question/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
@@ -362,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/pranjal070/LeetCode-Question/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/pranjal070/LeetCode-Question/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pranjal070/LeetCode-Question/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/pranjal070/LeetCode-Question/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0112-path-sum](https://github.com/pranjal070/LeetCode-Question/tree/master/0112-path-sum) |
 ## Doubly-Linked List
 |  |
