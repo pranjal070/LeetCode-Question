@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/pranjal070/LeetCode-Question/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/pranjal070/LeetCode-Question/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/pranjal070/LeetCode-Question/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/pranjal070/LeetCode-Question/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/pranjal070/LeetCode-Question/tree/master/1004-max-consecutive-ones-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/pranjal070/LeetCode-Question/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/pranjal070/LeetCode-Question/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/pranjal070/LeetCode-Question/tree/master/0200-number-of-islands) |
 | [0867-transpose-matrix](https://github.com/pranjal070/LeetCode-Question/tree/master/0867-transpose-matrix) |
+| [0994-rotting-oranges](https://github.com/pranjal070/LeetCode-Question/tree/master/0994-rotting-oranges) |
 | [1572-matrix-diagonal-sum](https://github.com/pranjal070/LeetCode-Question/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/pranjal070/LeetCode-Question/tree/master/1672-richest-customer-wealth) |
 ## Simulation
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/pranjal070/LeetCode-Question/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/pranjal070/LeetCode-Question/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/pranjal070/LeetCode-Question/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/pranjal070/LeetCode-Question/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
