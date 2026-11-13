@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/pranjal070/LeetCode-Question/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/pranjal070/LeetCode-Question/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranjal070/LeetCode-Question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/pranjal070/LeetCode-Question/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/pranjal070/LeetCode-Question/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/pranjal070/LeetCode-Question/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/pranjal070/LeetCode-Question/tree/master/0228-summary-ranges) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/pranjal070/LeetCode-Question/tree/master/0200-number-of-islands) |
 | [0867-transpose-matrix](https://github.com/pranjal070/LeetCode-Question/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/pranjal070/LeetCode-Question/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/pranjal070/LeetCode-Question/tree/master/1672-richest-customer-wealth) |
@@ -354,12 +356,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/pranjal070/LeetCode-Question/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/pranjal070/LeetCode-Question/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/pranjal070/LeetCode-Question/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/pranjal070/LeetCode-Question/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/pranjal070/LeetCode-Question/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/pranjal070/LeetCode-Question/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/pranjal070/LeetCode-Question/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/pranjal070/LeetCode-Question/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -387,4 +391,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/pranjal070/LeetCode-Question/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/pranjal070/LeetCode-Question/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
