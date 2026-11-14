@@ -5,7 +5,7 @@ class Solution {
             if(i>max){
                 return false;
             }
-            max=Math.max(max,i+nums[i]);
+            max=Math.max(max,nums[i]+i);
         }
         return true;
         
